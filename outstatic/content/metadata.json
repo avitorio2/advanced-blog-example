@@ -1,6 +1,6 @@
 {
-  "commit": "d164819e9dad435410707d379bdda074f40eda64",
-  "generated": "2024-06-04T01:28:47.989Z",
+  "commit": "5a140649a3730b2f385b5e3eba0e6c11b0fcdb30",
+  "generated": "2024-07-05T00:38:28.041Z",
   "metadata": [
     {
       "__outstatic": {
@@ -179,6 +179,26 @@
       "slug": "about",
       "status": "published",
       "title": "About Me"
+    },
+    {
+      "__outstatic": {
+        "commit": "5a140649a3730b2f385b5e3eba0e6c11b0fcdb30",
+        "hash": "313884393",
+        "path": "outstatic/content/posts/making-changes.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-05T00:20:17.984Z",
+      "slug": "making-changes",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Making changes"
     }
   ]
 }
