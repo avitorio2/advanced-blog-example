@@ -1,6 +1,6 @@
 {
-  "commit": "5a140649a3730b2f385b5e3eba0e6c11b0fcdb30",
-  "generated": "2025-07-31T20:13:01.317Z",
+  "commit": "0b19b66b569521107b3e7a3b706ecfc329a808c0",
+  "generated": "2025-07-31T20:15:04.778Z",
   "metadata": [
     {
       "__outstatic": {
@@ -182,8 +182,8 @@
     },
     {
       "__outstatic": {
-        "commit": "5a140649a3730b2f385b5e3eba0e6c11b0fcdb30",
-        "hash": "1540982042",
+        "commit": "0b19b66b569521107b3e7a3b706ecfc329a808c0",
+        "hash": "2372860501",
         "path": "outstatic/content/pages/hey-you.mdx"
       },
       "author": {
